@@ -1,0 +1,13 @@
+---
+layout: launches
+title:  "Mission Crew-5"
+date:   2022-10-11 08:48:24 +0700
+categories: launches
+---
+# Crew-5 Mission
+
+
+
+On Thursday, October 6 at 5:01 p.m. ET, SpaceX's Dragon autonomously docked with the International Space Station. Approximately 29 hours earlier at 12:00 p.m. ET, Falcon 9 launched the spacecraft to orbit from Launch Complex 39A (LC-39A) at NASA's Kennedy Space Center in Florida.
+
+During their time on the orbiting laboratory, the crew will conduct over 200 science experiments and technology demonstrations in areas such as human health and lunar fuel systems. Dragon and Crew-5 will depart the station and return to Earth in early 2023.
